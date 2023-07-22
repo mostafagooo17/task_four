@@ -1,0 +1,127 @@
+.home {
+    background-image: url("image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    height: 700px;
+
+}
+
+.home h1 {
+    margin-top: 20%;
+
+    font-size: 60px;
+}
+
+.home p {
+    font-size: 26px;
+    text-transform: capitalize;
+}
+
+.about {
+    background-color: #f1e1e1;
+    text-align: center;
+    height: 500px;
+    padding: 15px;
+    margin: 0;
+
+}
+
+button {
+    background-color: #000000;
+    color: white;
+    width: 200px;
+    padding: 15px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+button:hover {
+    cursor: pointer;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+}
+
+.about h1 {
+    margin-top: 5%;
+
+}
+
+.about p {
+    text-align: left;
+    margin-left: 10%;
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.invite {
+    background-image: url("image2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: -50px;
+    text-align: center;
+    padding: 0;
+    color: white;
+}
+
+.invite h1 {
+    padding-top: 20%;
+    font-size: 60px;
+}
+
+.invite p {
+    font-size: 24px;
+}
+
+.Wedding {
+    background-color: #f1e1e1;
+
+    text-align: center;
+    margin-top: -20px;
+    padding-bottom: 50px;
+}
+
+.Wedding h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    padding: 5%;
+}
+
+span {
+    text-transform: uppercase;
+    font-size: 24px;
+
+}
+
+.Wedding p {
+    text-align: left;
+    margin-left: 30%;
+
+}
+
+.img3 {
+    width: 800px;
+    height: 500px;
+}
+
+.hope {
+    background-color: #ffdddc;
+    margin-top: -22px;
+    text-align: center;
+
+}
+
+.hope h1 {
+    padding-top: 5%;
+}
+
+.hope button {
+    background-color: #f98078;
+    color: white;
+    border: none;
+}
